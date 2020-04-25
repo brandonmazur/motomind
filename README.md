@@ -1,2 +1,2 @@
-# hack-now
-To be filled in
+# hack:now
+Will be expanded upon, this will hold our project for hack:now 2020
