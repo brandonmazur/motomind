@@ -6,4 +6,4 @@ This is our entry for the 2020 hack:now hackathon. We decided to focus on produc
 - Created a (currently unsecure, but working) database which allows for reminders and information to be stored statically for future use instead of only being instance data. We decided to try to incorporate our own database instead of an online resource since we figured it would be a good learning experience (which it ended up being).
 
 Readme will be further expanded upon after the hackathon when more time can be spent.
-Demo: http://motomind.appspot.com/
+Demo: http://motomind.appspot.com/ (While the website is currently online, the backend server used to connect to the Twilio API is currently not being maintained)
